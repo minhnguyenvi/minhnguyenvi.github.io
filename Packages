@@ -1,0 +1,31 @@
+Package: com.minhnguyenvi.minhnguyennap
+Name: Minh Nguyễn Nạp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/minhnguyennap.deb
+MD5sum:cc0663835c672967fad2931641db5390
+SHA1:63d138aded1ba52ec8dc167779771ba59c45bb33
+SHA256:336e3f1bfde5be2f20c94776af4a1cd63db27e1aa70faadece14c348ab415d98
+Size:82640
+Description: Minh Nguyễn
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
+Author: Minh Nguyễn
+Installed-Size: 272
+
+Package: com.minhnguyenvi.minhnguyenxa
+Name: Minh Nguyễn Xả
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/minhnguyenxa.deb
+MD5sum:7f0f994c3c8e82281475cf244950edf9
+SHA1:1be4c3c1dbb108df6fa5c879815df898e022257c
+SHA256:6db962344c5382e7cf100e575563a933970c23f43246446a4ce9ccda289179a0
+Size:72232
+Description: Minh Nguyễn
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
+Author: Minh Nguyễn
+Installed-Size: 240
