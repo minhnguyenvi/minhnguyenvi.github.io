@@ -8,7 +8,7 @@ SHA1:63d138aded1ba52ec8dc167779771ba59c45bb33
 SHA256:336e3f1bfde5be2f20c94776af4a1cd63db27e1aa70faadece14c348ab415d98
 Size:82640
 Description: Minh Nguyễn
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
 Author: Minh Nguyễn
@@ -24,7 +24,7 @@ SHA1:1be4c3c1dbb108df6fa5c879815df898e022257c
 SHA256:6db962344c5382e7cf100e575563a933970c23f43246446a4ce9ccda289179a0
 Size:72232
 Description: Minh Nguyễn
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
 Author: Minh Nguyễn
