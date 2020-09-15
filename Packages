@@ -29,3 +29,19 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
 Author: Minh Nguyễn
 Installed-Size: 240
+
+Package: com.minhnguyenvi.xa1
+Name: Xả 1
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/xa1.deb
+MD5sum:9159fa9d3d5edd71ff3934744dcb3031
+SHA1:9e1308258df768ae53ae05504fcfec10d40a84f7
+SHA256:98f21ccf43e40442fc80b356acda929d56d140b004f4470dda993f5c50afe137
+Size:72252
+Description: Minh Nguyễn
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
+Author: Minh Nguyễn
+Installed-Size: 240
