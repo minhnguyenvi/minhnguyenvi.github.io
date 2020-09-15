@@ -35,10 +35,10 @@ Name: Xả 1
 Version: 0.0.1
 Architecture: iphoneos-arm
 Filename: ./debs/xa1.deb
-MD5sum:9159fa9d3d5edd71ff3934744dcb3031
-SHA1:9e1308258df768ae53ae05504fcfec10d40a84f7
-SHA256:98f21ccf43e40442fc80b356acda929d56d140b004f4470dda993f5c50afe137
-Size:72252
+MD5sum:a755970b291a0a34a137fbba50de4056
+SHA1:ab56669daaf0272dda1a26cb9a0efc67f1b17576
+SHA256:dfed8bca2a0e532db7bbefb98f26b67a6702c3e348ad173cb387137d998c03d6
+Size:72264
 Description: Minh Nguyễn
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
