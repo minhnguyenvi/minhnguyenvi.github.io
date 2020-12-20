@@ -45,3 +45,19 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
 Author: Minh Nguyễn
 Installed-Size: 240
+
+Package: com.minhnguyenvi.atta-in
+Name: Atta-In
+Version: 1.0-1489+debug
+Architecture: iphoneos-arm
+Filename: ./debs/atta-in.deb
+MD5sum:74c43e20b8d584e7ed85c5812dc71e90
+SHA1:7a5ba42bf69ee60b9cf8311fa9ba5a6347783348
+SHA256:7e5f9376d2c381cf8f28cecb5d0e46b94b54a7a22ab3c30a0fa7577b5dcf4939
+Size:225928
+Description: Minh Nguyễn
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, cc.tweak.libobjcipc
+Maintainer: Minh Nguyễn <minhnguyen@gmail.com>
+Author: Minh Nguyễn
+Installed-Size: 736
